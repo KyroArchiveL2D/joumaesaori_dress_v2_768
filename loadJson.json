@@ -21,7 +21,7 @@
     "resolution": "2k",
     "startAnimation": "Start_Idle_01",
     "startScene": true,
-    "language": "English"
+    "language": "Bahasa Indonesia"
   },
   "EventInfos" : [
     {"BoneName": "Spine_02", "Width": 1500, "Height": 800, "Animations":
@@ -54,7 +54,7 @@
       "CH0259_MemorialLobby_4": "ならば……先生が満足するまで、こうしていよう。",
       "CH0259_MemorialLobby_5": "それが……私の信頼の証だ。"
     },
-    "English": {
+    "Bahasa Indonesia": {
       "CH0259_MemorialLobby_1_1": "Be-begini caranya... bener nggak ya...?",
       "CH0259_MemorialLobby_1_2": "Kalau kata Sensei sih gitu... tapi pose ini agak... aneh ya.",
       "CH0259_MemorialLobby_1_3": "Biasanya sih aku nggak bakal ambil pose beginian.",
